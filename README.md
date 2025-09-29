@@ -1,2 +1,2 @@
 # MLOps
-MLOps 
+MLOps 2025
